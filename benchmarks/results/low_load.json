@@ -1,0 +1,122 @@
+[
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 9.76419448852539,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 2224.5380878448486,
+    "cached": false,
+    "success": true
+  },
+  {
+    "prompt": "What is 2 + 2?",
+    "latency_ms": 2224.567174911499,
+    "cached": false,
+    "success": true
+  },
+  {
+    "prompt": "Write a haiku about computers",
+    "latency_ms": 2224.6739864349365,
+    "cached": false,
+    "success": true
+  },
+  {
+    "prompt": "Describe the water cycle",
+    "latency_ms": 2857.1159839630127,
+    "cached": false,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 1.2578964233398438,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 1.2280941009521484,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is machine learning?",
+    "latency_ms": 1854.2132377624512,
+    "cached": false,
+    "success": true
+  },
+  {
+    "prompt": "Tell me about neural networks",
+    "latency_ms": 1853.5492420196533,
+    "cached": false,
+    "success": true
+  },
+  {
+    "prompt": "What is deep learning?",
+    "latency_ms": 1853.5399436950684,
+    "cached": false,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 0.7901191711425781,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 0.8258819580078125,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Write a haiku about computers",
+    "latency_ms": 1.1610984802246094,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is 2 + 2?",
+    "latency_ms": 1.194000244140625,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Describe the water cycle",
+    "latency_ms": 1.2919902801513672,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is machine learning?",
+    "latency_ms": 0.6930828094482422,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 0.7817745208740234,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 0.8232593536376953,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Tell me about neural networks",
+    "latency_ms": 0.8759498596191406,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is deep learning?",
+    "latency_ms": 0.949859619140625,
+    "cached": true,
+    "success": true
+  }
+]

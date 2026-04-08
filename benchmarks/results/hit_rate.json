@@ -1,0 +1,202 @@
+[
+  {
+    "request_num": 1,
+    "cached": false,
+    "latency_ms": 614.1567230224609
+  },
+  {
+    "request_num": 2,
+    "cached": true,
+    "latency_ms": 1.0728836059570312
+  },
+  {
+    "request_num": 3,
+    "cached": true,
+    "latency_ms": 0.4699230194091797
+  },
+  {
+    "request_num": 4,
+    "cached": true,
+    "latency_ms": 0.5271434783935547
+  },
+  {
+    "request_num": 5,
+    "cached": true,
+    "latency_ms": 0.39315223693847656
+  },
+  {
+    "request_num": 6,
+    "cached": true,
+    "latency_ms": 0.4532337188720703
+  },
+  {
+    "request_num": 7,
+    "cached": true,
+    "latency_ms": 0.4012584686279297
+  },
+  {
+    "request_num": 8,
+    "cached": true,
+    "latency_ms": 0.431060791015625
+  },
+  {
+    "request_num": 9,
+    "cached": true,
+    "latency_ms": 0.3666877746582031
+  },
+  {
+    "request_num": 10,
+    "cached": true,
+    "latency_ms": 0.41604042053222656
+  },
+  {
+    "request_num": 11,
+    "cached": true,
+    "latency_ms": 0.39696693420410156
+  },
+  {
+    "request_num": 12,
+    "cached": true,
+    "latency_ms": 0.39696693420410156
+  },
+  {
+    "request_num": 13,
+    "cached": true,
+    "latency_ms": 0.3829002380371094
+  },
+  {
+    "request_num": 14,
+    "cached": true,
+    "latency_ms": 0.38504600524902344
+  },
+  {
+    "request_num": 15,
+    "cached": true,
+    "latency_ms": 0.4050731658935547
+  },
+  {
+    "request_num": 16,
+    "cached": true,
+    "latency_ms": 0.4451274871826172
+  },
+  {
+    "request_num": 17,
+    "cached": true,
+    "latency_ms": 0.37097930908203125
+  },
+  {
+    "request_num": 18,
+    "cached": true,
+    "latency_ms": 0.3941059112548828
+  },
+  {
+    "request_num": 19,
+    "cached": true,
+    "latency_ms": 0.39696693420410156
+  },
+  {
+    "request_num": 20,
+    "cached": true,
+    "latency_ms": 0.39696693420410156
+  },
+  {
+    "request_num": 21,
+    "cached": true,
+    "latency_ms": 0.3688335418701172
+  },
+  {
+    "request_num": 22,
+    "cached": true,
+    "latency_ms": 0.38814544677734375
+  },
+  {
+    "request_num": 23,
+    "cached": true,
+    "latency_ms": 0.3981590270996094
+  },
+  {
+    "request_num": 24,
+    "cached": true,
+    "latency_ms": 0.39124488830566406
+  },
+  {
+    "request_num": 25,
+    "cached": true,
+    "latency_ms": 0.41294097900390625
+  },
+  {
+    "request_num": 26,
+    "cached": true,
+    "latency_ms": 0.37598609924316406
+  },
+  {
+    "request_num": 27,
+    "cached": true,
+    "latency_ms": 0.4029273986816406
+  },
+  {
+    "request_num": 28,
+    "cached": true,
+    "latency_ms": 0.3750324249267578
+  },
+  {
+    "request_num": 29,
+    "cached": true,
+    "latency_ms": 0.3991127014160156
+  },
+  {
+    "request_num": 30,
+    "cached": true,
+    "latency_ms": 0.3788471221923828
+  },
+  {
+    "request_num": 31,
+    "cached": false,
+    "latency_ms": 317.9600238800049
+  },
+  {
+    "request_num": 32,
+    "cached": false,
+    "latency_ms": 322.160005569458
+  },
+  {
+    "request_num": 33,
+    "cached": false,
+    "latency_ms": 317.2008991241455
+  },
+  {
+    "request_num": 34,
+    "cached": false,
+    "latency_ms": 317.45409965515137
+  },
+  {
+    "request_num": 35,
+    "cached": false,
+    "latency_ms": 315.4869079589844
+  },
+  {
+    "request_num": 36,
+    "cached": false,
+    "latency_ms": 319.34309005737305
+  },
+  {
+    "request_num": 37,
+    "cached": false,
+    "latency_ms": 331.10904693603516
+  },
+  {
+    "request_num": 38,
+    "cached": false,
+    "latency_ms": 316.8630599975586
+  },
+  {
+    "request_num": 39,
+    "cached": false,
+    "latency_ms": 315.5062198638916
+  },
+  {
+    "request_num": 40,
+    "cached": false,
+    "latency_ms": 451.16281509399414
+  }
+]

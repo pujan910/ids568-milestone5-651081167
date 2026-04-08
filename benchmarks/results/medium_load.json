@@ -1,0 +1,362 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 3.7162303924560547,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is 2 + 2?",
+    "latency_ms": 3.6988258361816406,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is machine learning?",
+    "latency_ms": 3.665924072265625,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 3.6177635192871094,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is deep learning?",
+    "latency_ms": 3.6001205444335938,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 3.660917282104492,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is 2 + 2?",
+    "latency_ms": 3.7069320678710938,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is machine learning?",
+    "latency_ms": 3.7229061126708984,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 3.751993179321289,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is deep learning?",
+    "latency_ms": 3.7899017333984375,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 5.039215087890625,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Write a haiku about computers",
+    "latency_ms": 5.096912384033203,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Describe the water cycle",
+    "latency_ms": 5.131006240844727,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 5.179882049560547,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Tell me about neural networks",
+    "latency_ms": 5.230188369750977,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 5.177021026611328,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Write a haiku about computers",
+    "latency_ms": 5.234003067016602,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Describe the water cycle",
+    "latency_ms": 5.260705947875977,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 5.3081512451171875,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Tell me about neural networks",
+    "latency_ms": 5.362987518310547,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 1.4243125915527344,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 1.4603137969970703,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Write a haiku about computers",
+    "latency_ms": 1.5878677368164062,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is 2 + 2?",
+    "latency_ms": 1.6341209411621094,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Describe the water cycle",
+    "latency_ms": 1.712799072265625,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is machine learning?",
+    "latency_ms": 1.753091812133789,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 1.811981201171875,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 1.880645751953125,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Tell me about neural networks",
+    "latency_ms": 1.9378662109375,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is deep learning?",
+    "latency_ms": 2.006053924560547,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 2.0651817321777344,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 2.2420883178710938,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Write a haiku about computers",
+    "latency_ms": 2.293825149536133,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is 2 + 2?",
+    "latency_ms": 2.351045608520508,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Describe the water cycle",
+    "latency_ms": 2.3000240325927734,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is machine learning?",
+    "latency_ms": 2.347230911254883,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 2.398967742919922,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 2.454996109008789,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Tell me about neural networks",
+    "latency_ms": 2.5038719177246094,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is deep learning?",
+    "latency_ms": 2.5641918182373047,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 1.325845718383789,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 1.3937950134277344,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Write a haiku about computers",
+    "latency_ms": 1.4410018920898438,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is 2 + 2?",
+    "latency_ms": 1.5299320220947266,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Describe the water cycle",
+    "latency_ms": 1.5912055969238281,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is machine learning?",
+    "latency_ms": 1.6460418701171875,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 1.8448829650878906,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 1.9102096557617188,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Tell me about neural networks",
+    "latency_ms": 1.9900798797607422,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is deep learning?",
+    "latency_ms": 2.043008804321289,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 2.090930938720703,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 2.1491050720214844,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Write a haiku about computers",
+    "latency_ms": 2.2101402282714844,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is 2 + 2?",
+    "latency_ms": 2.2640228271484375,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Describe the water cycle",
+    "latency_ms": 2.3229122161865234,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is machine learning?",
+    "latency_ms": 2.3202896118164062,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Explain machine learning in si",
+    "latency_ms": 2.373933792114258,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "latency_ms": 2.431154251098633,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "Tell me about neural networks",
+    "latency_ms": 2.485990524291992,
+    "cached": true,
+    "success": true
+  },
+  {
+    "prompt": "What is deep learning?",
+    "latency_ms": 2.544879913330078,
+    "cached": true,
+    "success": true
+  }
+]
