@@ -2,201 +2,201 @@
   {
     "request_num": 1,
     "cached": false,
-    "latency_ms": 614.1567230224609
+    "latency_ms": 809.1988563537598
   },
   {
     "request_num": 2,
     "cached": true,
-    "latency_ms": 1.0728836059570312
+    "latency_ms": 0.7412433624267578
   },
   {
     "request_num": 3,
     "cached": true,
-    "latency_ms": 0.4699230194091797
+    "latency_ms": 0.553131103515625
   },
   {
     "request_num": 4,
     "cached": true,
-    "latency_ms": 0.5271434783935547
+    "latency_ms": 0.4630088806152344
   },
   {
     "request_num": 5,
     "cached": true,
-    "latency_ms": 0.39315223693847656
+    "latency_ms": 0.4298686981201172
   },
   {
     "request_num": 6,
     "cached": true,
-    "latency_ms": 0.4532337188720703
+    "latency_ms": 0.4298686981201172
   },
   {
     "request_num": 7,
     "cached": true,
-    "latency_ms": 0.4012584686279297
+    "latency_ms": 0.492095947265625
   },
   {
     "request_num": 8,
     "cached": true,
-    "latency_ms": 0.431060791015625
+    "latency_ms": 0.44417381286621094
   },
   {
     "request_num": 9,
     "cached": true,
-    "latency_ms": 0.3666877746582031
+    "latency_ms": 0.4379749298095703
   },
   {
     "request_num": 10,
     "cached": true,
-    "latency_ms": 0.41604042053222656
+    "latency_ms": 0.453948974609375
   },
   {
     "request_num": 11,
     "cached": true,
-    "latency_ms": 0.39696693420410156
+    "latency_ms": 0.39196014404296875
   },
   {
     "request_num": 12,
     "cached": true,
-    "latency_ms": 0.39696693420410156
+    "latency_ms": 0.45013427734375
   },
   {
     "request_num": 13,
     "cached": true,
-    "latency_ms": 0.3829002380371094
+    "latency_ms": 0.4439353942871094
   },
   {
     "request_num": 14,
     "cached": true,
-    "latency_ms": 0.38504600524902344
+    "latency_ms": 0.38814544677734375
   },
   {
     "request_num": 15,
     "cached": true,
-    "latency_ms": 0.4050731658935547
+    "latency_ms": 0.37407875061035156
   },
   {
     "request_num": 16,
     "cached": true,
-    "latency_ms": 0.4451274871826172
+    "latency_ms": 0.37097930908203125
   },
   {
     "request_num": 17,
     "cached": true,
-    "latency_ms": 0.37097930908203125
+    "latency_ms": 0.37598609924316406
   },
   {
     "request_num": 18,
     "cached": true,
-    "latency_ms": 0.3941059112548828
+    "latency_ms": 0.4570484161376953
   },
   {
     "request_num": 19,
     "cached": true,
-    "latency_ms": 0.39696693420410156
+    "latency_ms": 0.4248619079589844
   },
   {
     "request_num": 20,
     "cached": true,
-    "latency_ms": 0.39696693420410156
+    "latency_ms": 0.3631114959716797
   },
   {
     "request_num": 21,
     "cached": true,
-    "latency_ms": 0.3688335418701172
+    "latency_ms": 0.3998279571533203
   },
   {
     "request_num": 22,
     "cached": true,
-    "latency_ms": 0.38814544677734375
+    "latency_ms": 0.3867149353027344
   },
   {
     "request_num": 23,
     "cached": true,
-    "latency_ms": 0.3981590270996094
+    "latency_ms": 0.3790855407714844
   },
   {
     "request_num": 24,
     "cached": true,
-    "latency_ms": 0.39124488830566406
+    "latency_ms": 0.3681182861328125
   },
   {
     "request_num": 25,
     "cached": true,
-    "latency_ms": 0.41294097900390625
+    "latency_ms": 0.3571510314941406
   },
   {
     "request_num": 26,
     "cached": true,
-    "latency_ms": 0.37598609924316406
+    "latency_ms": 0.35309791564941406
   },
   {
     "request_num": 27,
     "cached": true,
-    "latency_ms": 0.4029273986816406
+    "latency_ms": 0.35190582275390625
   },
   {
     "request_num": 28,
     "cached": true,
-    "latency_ms": 0.3750324249267578
+    "latency_ms": 0.3600120544433594
   },
   {
     "request_num": 29,
     "cached": true,
-    "latency_ms": 0.3991127014160156
+    "latency_ms": 0.3731250762939453
   },
   {
     "request_num": 30,
     "cached": true,
-    "latency_ms": 0.3788471221923828
+    "latency_ms": 0.35881996154785156
   },
   {
     "request_num": 31,
     "cached": false,
-    "latency_ms": 317.9600238800049
+    "latency_ms": 343.06883811950684
   },
   {
     "request_num": 32,
     "cached": false,
-    "latency_ms": 322.160005569458
+    "latency_ms": 335.29114723205566
   },
   {
     "request_num": 33,
     "cached": false,
-    "latency_ms": 317.2008991241455
+    "latency_ms": 377.9599666595459
   },
   {
     "request_num": 34,
     "cached": false,
-    "latency_ms": 317.45409965515137
+    "latency_ms": 333.04715156555176
   },
   {
     "request_num": 35,
     "cached": false,
-    "latency_ms": 315.4869079589844
+    "latency_ms": 344.2213535308838
   },
   {
     "request_num": 36,
     "cached": false,
-    "latency_ms": 319.34309005737305
+    "latency_ms": 345.33095359802246
   },
   {
     "request_num": 37,
     "cached": false,
-    "latency_ms": 331.10904693603516
+    "latency_ms": 362.0569705963135
   },
   {
     "request_num": 38,
     "cached": false,
-    "latency_ms": 316.8630599975586
+    "latency_ms": 336.8701934814453
   },
   {
     "request_num": 39,
     "cached": false,
-    "latency_ms": 315.5062198638916
+    "latency_ms": 322.8721618652344
   },
   {
     "request_num": 40,
     "cached": false,
-    "latency_ms": 451.16281509399414
+    "latency_ms": 434.5989227294922
   }
 ]

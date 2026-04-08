@@ -1,5 +1,6 @@
 import asyncio
 import time
+import torch
 import psutil
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, HTTPException
@@ -13,10 +14,19 @@ from src.batching import batcher
 stats = {"requests": 0, "cache_hits": 0, "cache_misses": 0, "start_time": time.time()}
 
 def run_model(prompts: list, max_tokens: int) -> list:
+    outputs = generator(
+        prompts,
+        max_new_tokens=max_tokens,
+        do_sample=False,
+        batch_size=len(prompts)
+    )
+
     results = []
-    for prompt in prompts:
-        out = generator(prompt, max_new_tokens=max_tokens, do_sample=False)
-        results.append(out[0]["generated_text"])
+    for out in outputs:
+        if isinstance(out, list):
+            results.append(out[0]["generated_text"])
+        else:
+            results.append(out["generated_text"])
     return results
 
 @asynccontextmanager

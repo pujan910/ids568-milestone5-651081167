@@ -66,3 +66,13 @@ These approaches align with privacy-aware system design.
 
 Batching and caching improve performance but introduce governance risks. The implemented safeguards ensure the system remains privacy-aware while maintaing
 performance improvements.
+
+---
+
+## Implementation-Specific Governance Controls
+
+This system implements several governance safeguards directly in the implementation. Cache keys are generated using hashed prompt inputs, ensuring that no plaintext user identifiers are stored in memory. The caching layer uses a configurable time-to-live (TTL) value, which defaults to 300 seconds, ensuring that responses expire automatically and reducing long-term retention risks.
+
+Additionally, the cache includes a maximum entry limit of 1000 responses, which prevents unbounded memory growth and reduces exposure of stored data. Expired entries are removed automatically, ensuring that stale responses are not returned indefinitely.
+
+These safeguards help maintain privacy-aware inference behavior while still enabling performance optimizations through batching and caching.
